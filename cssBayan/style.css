@@ -76,6 +76,10 @@ img {
    height: 45vh;
 }
 
+.label_two:hover>.label_two_span>img {
+   height: 45vh;
+}
+
 input:checked+label+.acor-body>.label_two>.label_two_span>img {
    height: 45vh;
 }
